@@ -63,5 +63,7 @@ For example:
 
 ## 📌 Dashboard Preview 
 
-![Alt text] ( https://drive.google.com/file/d/1DDwaNt4BEdju8B0KX3ZbOjkhCbmfL2th/view?usp=drivesdk/image.png)
+<img width="1191" height="668" alt="image" src="https://github.com/user-attachments/assets/e8e2918b-c8e7-4469-8262-7b5f0bab5264" />
+
+
 
