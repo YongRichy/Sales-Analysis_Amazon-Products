@@ -62,4 +62,5 @@ For example:
 - Even if two products are in the same category, their SKUs allow precise tracking of sales and reviews.
 
 ## 📌 Dashboard Preview 
-![Alt text](https://share.icloud.com/photos/0a315aMtcoQTuHi4mtTpvHmKg)
+
+
