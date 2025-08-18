@@ -65,5 +65,11 @@ For example:
 
 <img width="1191" height="668" alt="image" src="https://github.com/user-attachments/assets/e8e2918b-c8e7-4469-8262-7b5f0bab5264" />
 
+## ⚙️ Getting Started
 
-
+1. **Clone this repo**  
+   ```bash
+   git clone https://github.com/YongRichy/Sales-Analysis_Amazon-Products.git
+2.	Open Sales-Analysis_Amazon-Ptiducts.pbix in Power BI Desktop.
+3.	Refresh the data to load sales_reviews.csv.
+4.	Explore filters, slicers, and drill-through pages to uncover insights!
