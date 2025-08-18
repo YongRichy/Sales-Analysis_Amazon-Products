@@ -73,3 +73,10 @@ For example:
 2.	Open Sales-Analysis_Amazon-Ptiducts.pbix in Power BI Desktop.
 3.	Refresh the data to load sales_reviews.csv.
 4.	Explore filters, slicers, and drill-through pages to uncover insights!
+
+## 📬 Contact
+
+If you found this helpful, have questions or want to collaborate, feel free to connect: 
+- 💼 LinkedIn: https://www.linkedin.com/in/successchukwuka
+
+- 📧 Email: chukwukasuccess.cs@gmail.com
